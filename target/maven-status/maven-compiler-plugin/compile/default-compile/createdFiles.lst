@@ -1,0 +1,9 @@
+com\bestbuy\constants\StoresPath.class
+com\bestbuy\constants\ProductsPath.class
+com\bestbuy\model\StorePojo.class
+com\bestbuy\constants\EndPoints.class
+com\bestbuy\bestbuyinfo\StoresSteps.class
+com\bestbuy\model\ProductPojo.class
+com\bestbuy\utils\PropertyReader.class
+com\bestbuy\utils\TestUtils.class
+com\bestbuy\bestbuyinfo\ProductsSteps.class

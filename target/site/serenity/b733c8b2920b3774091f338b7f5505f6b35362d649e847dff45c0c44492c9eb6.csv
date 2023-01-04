@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores CURD with steps","This will create new store","ERROR","2023-01-04T01:15:54.214Z[Europe/London]","0.0","8.14"
+"Stores CURD with steps","Getting the store information with Name:","ERROR","2023-01-04T01:16:02.417Z[Europe/London]","0.0","4.13"
+"Stores CURD with steps","Updating store information and verify the updated information","ERROR","2023-01-04T01:16:06.553Z[Europe/London]","0.0","0.03"
+"Stores CURD with steps","Deleting store with id and verify that user is deleted","ERROR","2023-01-04T01:16:06.583Z[Europe/London]","0.0","0.01"

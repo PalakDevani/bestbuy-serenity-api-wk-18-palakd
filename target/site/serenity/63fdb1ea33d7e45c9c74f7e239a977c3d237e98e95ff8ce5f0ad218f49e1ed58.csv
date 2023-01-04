@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Procusts CURD with steps","Update the product information and verify the updated information","ERROR","2023-01-04T01:15:54.214Z[Europe/London]","0.0","2.96"
+"Procusts CURD with steps","Delete the product and verify if the product is deleted!","ERROR","2023-01-04T01:15:57.309Z[Europe/London]","0.0","0.03"
+"Procusts CURD with steps","This will create new product","ERROR","2023-01-04T01:15:57.340Z[Europe/London]","0.0","5.28"
+"Procusts CURD with steps","This will verify if the new product added successfully","ERROR","2023-01-04T01:16:02.620Z[Europe/London]","0.0","4.17"
